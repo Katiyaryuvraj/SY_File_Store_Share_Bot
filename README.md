@@ -57,5 +57,5 @@ banned_users - Get All Banned Users [Owner Only]
 ```
 
 ## Credits:
-* Abir Hasan: [Abir Hasan](https://abirhasan2005)
-* Yuvraj Katiyar: [Yuvraj Katiyar](https://katiyaryuvraj)
+* Abir Hasan: [Abir Hasan](https://github.com/abirhasan2005)
+* Yuvraj Katiyar: [Yuvraj Katiyar](https://github.com/Katiyaryuvraj)
