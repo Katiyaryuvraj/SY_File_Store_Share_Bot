@@ -1,5 +1,5 @@
 # PyroFilesStoreBot
-This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005).
+NOTE: full source code is written by [@AbirHasan2005](https://github.com/AbirHasan2005) ,  i just changed some codes.
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
@@ -55,19 +55,6 @@ unban_user - [user_id] Unban Any User [Owner Only]
 banned_users - Get All Banned Users [Owner Only]
 ```
 
-### Support Group:
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Follow on:
-<p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
-</p>
+## Credits:
+* Abir Hasan: [Abir Hasan](https:/github.com/abirhasan2005)
+* Yuvraj Katiyar: [Yuvraj Katiyar](https:/github.com/katiyaryuvraj)
