@@ -1,4 +1,5 @@
-# PyroFilesStoreBot
+# SY_File_Store_Share_Bot
+
 NOTE: full source code is written by [@AbirHasan2005](https://github.com/AbirHasan2005) ,  i just changed some codes.
 
 * **Language:** [Python3](https://www.python.org)
@@ -56,5 +57,5 @@ banned_users - Get All Banned Users [Owner Only]
 ```
 
 ## Credits:
-* Abir Hasan: [Abir Hasan](https:/github.com/abirhasan2005)
-* Yuvraj Katiyar: [Yuvraj Katiyar](https:/github.com/katiyaryuvraj)
+* Abir Hasan: [Abir Hasan](https://abirhasan2005)
+* Yuvraj Katiyar: [Yuvraj Katiyar](https://katiyaryuvraj)
